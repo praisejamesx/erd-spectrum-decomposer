@@ -134,7 +134,7 @@ If you use ERD in your research, please cite:
 @article{james2024erd,
   title={Elegant Recursive Discovery (ERD): An Autonomous AI Framework for Explanatory Decomposition of Scientific Data},
   author={James, Praise},
-  journal={arXiv preprint arXiv:2405.XXXXX},
+  preprint={Zenodo. doi:10.5281/zenodo.17879292.},
   year={2025}
 }
 ```
@@ -148,3 +148,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - The [RRUFF Project](https://rruff.info/) for open-access Raman spectra
 - Independent research project conducted by Praise James
 ```
+
