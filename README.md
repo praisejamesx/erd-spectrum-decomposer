@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![arXiv](https://img.shields.io/badge/arXiv-2405.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2405.XXXXX)
+[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281.17879292.svg)](https://doi:10.5281/zenodo.17879292)
 
 An autonomous AI framework for **explanatory decomposition** of scientific data. Extracts interpretable models from complex spectra **without manual parameter input**.
 
@@ -148,4 +148,5 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - The [RRUFF Project](https://rruff.info/) for open-access Raman spectra
 - Independent research project conducted by Praise James
 ```
+
 
